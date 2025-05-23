@@ -290,19 +290,47 @@ margin-bottom:8px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    padding-bottom: 8px;
 }
 
 .team-item {
     flex-basis: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
     width: 264px;
-    height: 380px;
     background-color: #ffffff;
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+}
+.social-item {
+
+}
+.our-team-items-position{
+    width: 40px;
+    height: 40px;
+    background-color: #4D5AE5;
+    border-radius: 50px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.social-list{
+display:flex;
+align-items: center;
+gap: 24px;
+padding-right: 16px;
+padding-left: 16px;
+
+}
+.social-link {
+
+
 }
 
+.team-icon {
+
+}
 /* workerone */
 .container-workers {
-    padding: 32px 0;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 /* portfolio sect */
