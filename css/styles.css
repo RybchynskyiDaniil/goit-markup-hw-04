@@ -455,6 +455,7 @@ margin-right: 120px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
+        margin-bottom: 16px;
 }
 .footer-social-item {}
 
@@ -464,19 +465,9 @@ margin-right: 120px;
     background-color: #4D5AE5;
     border-radius: 50px;
 }
-.footer-sicial-wrapper{
-
-}
-.footer-social-list {
+.social-list-footer {
     display: flex;
     align-items: center;
     gap: 24px;
-
-}
-
-.social-link {}
-
-.footer-icon {}
-.team-icon{
-
-}
+    
+  }
